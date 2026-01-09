@@ -29,6 +29,7 @@ function solution(D)
   "2020-01-07": 4
 }
 
+
 ## Output
 
 {
