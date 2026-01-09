@@ -1,4 +1,4 @@
-
+# javascript-weekday-solution
 # JavaScript Weekday Aggregation Function
 
 ## Problem Statement
